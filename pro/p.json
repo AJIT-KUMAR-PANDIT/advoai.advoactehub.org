@@ -1,0 +1,6 @@
+{
+  "default": "legal_assistant",
+  "priority": ["legal_assistant", "drafting_expert", "case_analyst", "research_counsel"],
+  "trending": [],
+  "last_used": "contract_generator"
+}
